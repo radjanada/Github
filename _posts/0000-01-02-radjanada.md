@@ -2,7 +2,7 @@
 ​layout​: ​slide​
 ​title​: ​"​HELLO WORLD THIS IS MY FIRST TIME DOING THIS!​"​
 ---
-​Jungkook is my baby boo
+<p style="color:blue">​Jungkook is my baby boo </p>
 BTSXARMY <br>
-I PURPLE YOU! 💜 💜 💜 💜 💜 💜 💜 <br>
+<b>I PURPLE YOU!</b>💜 💜 💜 💜 💜 💜 💜 <br>
 ​Use the left arrow to go back!
