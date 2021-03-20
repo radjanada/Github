@@ -2,6 +2,7 @@
 ​layout​: ​slide​
 ​title​: ​"​Welcome to our second slide!​"​
 ---
-​Heheheeeeeeeeee
+​Jungkook is my baby boo
+BTSXARMY 
+I PURPLE YOU! 💜 💜 💜 💜 💜 💜 💜 
 ​Use the left arrow to go back!
-Hii
